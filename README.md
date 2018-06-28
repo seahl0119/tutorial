@@ -2,6 +2,10 @@
 
 This is a tutorial for deep learning with keras.
 
+Requirement
+ - keras = 2.1.3
+ - python = 3.6.1
+
 Contents are following.
 
 1. Multi Layer Perceptron (MLP)
